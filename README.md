@@ -1,4 +1,4 @@
-Telegram Bot Repo Capable of fetching the following Info via Anilist API inspired from [AniFluid](https://t.me/anifluidbot) and [Nepgear](https://t.me/nepgearbot)
+Telegram Bot Repo Capable of fetching the following Info via Anilist API inspired from [AniFluid](https://t.me/anifluidbot)
 * Anime
 * Airing
 * Manga
